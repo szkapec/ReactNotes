@@ -1,15 +1,15 @@
 self.__precacheManifest = [
   {
-    "revision": "e2e36c42c5d3ff29dfb8",
-    "url": "/ReactNotes/static/js/main.4a9247b4.chunk.js"
+    "revision": "cf1fcff87b3ea3e03be9",
+    "url": "/ReactNotes/static/js/main.1a1b30f1.chunk.js"
   },
   {
     "revision": "2ce2cbc652e52c93f1d3",
     "url": "/ReactNotes/static/js/runtime~main.3f292b48.js"
   },
   {
-    "revision": "df2fae672503c50995a8",
-    "url": "/ReactNotes/static/js/2.5a584b34.chunk.js"
+    "revision": "e2859be82b106e59fbf3",
+    "url": "/ReactNotes/static/js/2.574d4e51.chunk.js"
   },
   {
     "revision": "6fc1d8fe5a3f17e73f1ecd0d757475d1",
@@ -40,11 +40,7 @@ self.__precacheManifest = [
     "url": "/ReactNotes/static/media/plus.e43ce6c8.svg"
   },
   {
-    "revision": "93d4f3ba834e7afdf3f8dcb93f2a82f8",
-    "url": "/ReactNotes/static/media/logo.93d4f3ba.svg"
-  },
-  {
-    "revision": "83a0822a1bfb0ae6e910cb1941854d35",
+    "revision": "e31eca866d73b1c0a09f4a56faff6405",
     "url": "/ReactNotes/index.html"
   }
 ];
