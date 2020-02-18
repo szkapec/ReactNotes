@@ -1,7 +1,7 @@
 self.__precacheManifest = [
   {
-    "revision": "74ed475bf8db2e8b7cf7",
-    "url": "/ReactNotes/static/js/main.3eb69d96.chunk.js"
+    "revision": "21e8c7d6474a749a1e2a",
+    "url": "/ReactNotes/static/js/main.c70c165d.chunk.js"
   },
   {
     "revision": "2ce2cbc652e52c93f1d3",
@@ -40,7 +40,7 @@ self.__precacheManifest = [
     "url": "/ReactNotes/static/media/plus.e43ce6c8.svg"
   },
   {
-    "revision": "502dc977fb86fd411f7ba2ce14a5d419",
+    "revision": "1742e7a8e771271a249d9edb7546dd87",
     "url": "/ReactNotes/index.html"
   }
 ];
